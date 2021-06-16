@@ -1,0 +1,42 @@
+name: al-data-env
+channels:
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_gnu
+  - ca-certificates=2021.5.30=ha878542_0
+  - certifi=2021.5.30=py37h89c1867_0
+  - joblib=1.0.1=pyhd8ed1ab_0
+  - ld_impl_linux-64=2.35.1=hea4e1c9_2
+  - libblas=3.9.0=9_openblas
+  - libcblas=3.9.0=9_openblas
+  - libffi=3.3=h58526e2_2
+  - libgcc-ng=9.3.0=h2828fa1_19
+  - libgfortran-ng=9.3.0=hff62375_19
+  - libgfortran5=9.3.0=hff62375_19
+  - libgomp=9.3.0=h2828fa1_19
+  - liblapack=3.9.0=9_openblas
+  - libopenblas=0.3.15=pthreads_h8fe5266_1
+  - libstdcxx-ng=9.3.0=h6de172a_19
+  - ncurses=6.2=h58526e2_4
+  - numpy=1.19.1=py37h7ea13bd_2
+  - openssl=1.1.1k=h7f98852_0
+  - pandas=1.1.1=py37h3340039_0
+  - pip=21.1.2=pyhd8ed1ab_0
+  - python=3.7.9=hffdb5ce_100_cpython
+  - python-dateutil=2.8.1=py_0
+  - python_abi=3.7=1_cp37m
+  - pytz=2021.1=pyhd8ed1ab_0
+  - readline=8.1=h46c0cb4_0
+  - scikit-learn=0.23.2=py37hddcf8d6_3
+  - scipy=1.6.3=py37h29e03ee_0
+  - setuptools=49.6.0=py37h89c1867_3
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.35.5=h74cdb3f_0
+  - threadpoolctl=2.1.0=pyh5ca1d4c_0
+  - tk=8.6.10=h21135ba_1
+  - wheel=0.36.2=pyhd3deb0d_0
+  - xlrd=1.2.0=pyh9f0ad1d_1
+  - xz=5.2.5=h516909a_1
+  - zlib=1.2.11=h516909a_1010
+
